@@ -11,7 +11,7 @@
 
 ## Description
 
-This is the backend code that shows my skills to use routes
+This is the backend code that shows my skills to use routes and their relationship with seeds and models
 
 ## Installation
 
