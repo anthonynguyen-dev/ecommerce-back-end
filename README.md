@@ -25,3 +25,4 @@ Github: https://github.com/anthonynguyen-dev
 ## Project Links
 
 Github Link: https://github.com/anthonynguyen-dev/ecommerce-back-end
+video link: https://drive.google.com/file/d/1ZeqPeM38xM_YiBbqRNyIP9Twc-XJAvAY/view
